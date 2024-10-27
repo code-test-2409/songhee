@@ -5,3 +5,5 @@
 [프로그래머스 폰켓몬](https://dogandbird.tistory.com/154) (10월 6일)
 
 [SWEA 2072](https://dogandbird.tistory.com/155) (10월 13일)
+
+[SWEA 1954](https://dogandbird.tistory.com/157) (10월 27일)
